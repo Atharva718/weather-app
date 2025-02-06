@@ -32,6 +32,61 @@ This Weather App is a user-friendly platform built to fetch and display real-tim
 - **Build Tool**: Vite
 - **Hosting**: Netlify
 
+
+## 📖 **Usage**  
+Enter a city name in the search box to get instant weather updates, including:  
+- Current temperature  
+- Humidity level  
+- Feels-like temperature  
+- Minimum/Maximum temperatures  
+- Weather description  
+
+---
+
+## 🔧 **Components**  
+- `WeatherApp.jsx`: Main application wrapper  
+- `SearchBox.jsx`: City input with error handling  
+- `InfoBox.jsx`: Weather data display component  
+- `AnimatedBackground`: Floating weather icons animation  
+
+---
+
+## 🌐 **API Integration**  
+Uses OpenWeatherMap API for:  
+- Current weather data  
+- Temperature in metric units  
+- Humidity and feels-like metrics  
+- Weather condition descriptions  
+
+---
+
+## 📱 **Responsive Design**  
+- Mobile-first approach  
+- Flexible grid layouts  
+- Adaptive card components  
+- Media queries for different screen sizes  
+
+---
+
+## 🎨 **Styling Highlights**  
+- CSS variables for consistent theming  
+- Floating animation using `@keyframes`  
+- Smooth transitions and hover effects  
+- Gradient backgrounds  
+- Dynamic border color animations  
+
+---
+
+## 🤝 **Contributing**  
+Contributions welcome! Please:  
+1. Fork the repository  
+2. Create your feature branch  
+3. Commit changes  
+4. Push to the branch  
+5. Open a Pull Request  
+
+---
+
 ## 🚀 Installation
 1. Clone the repository:
 ```bash
@@ -53,52 +108,7 @@ Minimum/Maximum temperatures
 Weather description
 
 
-📖 Usage
-Enter a city name in the search box.
 
-Get instant weather updates including:
+## 📄 **License**  
+MIT License - see LICENSE for details  
 
-Current temperature
-Humidity level
-Feels-like temperature
-Minimum/Maximum temperatures
-Weather description
-🔧 Components
-WeatherApp.jsx: Main application wrapper
-SearchBox.jsx: City input with error handling
-InfoBox.jsx: Weather data display component
-AnimatedBackground: Floating weather icons animation
-🌐 API Integration
-Uses OpenWeatherMap API for:
-
-Current weather data
-Temperature in metric units
-Humidity and feels-like metrics
-Weather condition descriptions
-📱 Responsive Design
-Mobile-first approach
-Flexible grid layouts
-Adaptive card components
-Media queries for different screen sizes
-🎨 Styling Highlights
-CSS variables for consistent theming
-Floating animation using @keyframes
-Smooth transitions and hover effects
-Gradient backgrounds
-Dynamic border color animations
-🤝 Contributing
-Contributions welcome! Please:
-
-Fork the repository
-Create your feature branch
-Commit changes
-Push to the branch
-Open a Pull Request
-📄 License
-MIT License - see LICENSE for details
-
-pgsql
-Copy
-Edit
-
-This version ensures the sections are well-separated and headings no longer appear within the installation section.
