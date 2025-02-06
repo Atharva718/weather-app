@@ -87,27 +87,6 @@ Contributions welcome! Please:
 
 ---
 
-## 🚀 Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/weather-app.git
-# 📖 **Usage**
-
-Enter a city name in the search box
-
-Get instant weather updates including:
-
-Current temperature
-
-Humidity level
-
-Feels-like temperature
-
-Minimum/Maximum temperatures
-
-Weather description
-
-
 
 ## 📄 **License**  
 MIT License - see LICENSE for details  
